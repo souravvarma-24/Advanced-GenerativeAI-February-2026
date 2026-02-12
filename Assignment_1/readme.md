@@ -29,7 +29,7 @@ This project focuses on clarity of logic rather than complexity, ensuring strong
 
 ```
 📁 Sourav_419_Advanced GenerativeAI | February 2026_Assignment_1
- ├── Logic Building Task 1.ipynb
+ ├── Logic_Building_Task_1.ipynb
  └── README.md
 ```
 
