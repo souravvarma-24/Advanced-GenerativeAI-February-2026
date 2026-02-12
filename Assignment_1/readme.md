@@ -1,39 +1,39 @@
-# 🚀 Logic Building Task 1
+# 🚀 Logic Building Task 1 
 
 ---
-### Innomatics Research Labs – Advanced GenerativeAI internship
+### Innomatics Research Labs – Advanced Generative AI Internship  
 
 ---
 
-This repository presents structured solutions to **5 foundational Python logic-building problems**, completed as part of my Advanced GenerativeAI internship.
+This repository presents structured solutions to **5 foundational Python logic-building problems**, completed as part of my Advanced Generative AI Internship.
 
-The purpose of this assignment is to strengthen computational thinking, problem decomposition, and clean implementation using core Python constructs — skills that form the backbone of advanced data science and machine learning workflows.
+The purpose of this assignment is to strengthen computational thinking, problem decomposition, and structured implementation using core Python constructs — essential skills that form the foundation for advanced fields such as Data Science, Machine Learning, and Generative AI.
 
 ---
 
 # 📌 Project Objective  
 
-The primary goal of this task was to:
+The primary objectives of this task were to:
 
 - Develop strong logical reasoning skills  
-- Practice structured problem-solving  
-- Apply core Python fundamentals  
-- Write readable and maintainable code  
+- Practice structured problem-solving techniques  
+- Apply fundamental Python programming concepts  
+- Write clean, readable, and maintainable code  
 - Organize internship deliverables professionally using GitHub  
 
-This project focuses on clarity of logic rather than complexity, ensuring strong foundational understanding.
+This project emphasizes clarity of logic over complexity, ensuring strong foundational understanding before progressing to advanced AI workflows.
 
 ---
 
 # 📂 Repository Structure  
 
 ```
-📁 Sourav_419_Advanced GenerativeAI | February 2026_Assignment_1
+📁 Sourav_419_Advanced_GenerativeAI_February_2026_Assignment_1
  ├── Logic_Building_Task_1.ipynb
  └── README.md
 ```
 
-All tasks are implemented within a single Jupyter Notebook for structured execution and step-by-step result validation.
+All tasks are implemented in a single Jupyter Notebook for structured execution and step-by-step validation of outputs.
 
 ---
 
@@ -49,35 +49,35 @@ All tasks are implemented within a single Jupyter Notebook for structured execut
 
 ---
 
-# 🧠 Data Science Perspective  
+# 🧠 Applied Learning Perspective  
 
-Although these are foundational problems, they simulate real-world data science concepts:
+Although these are foundational exercises, they reflect real-world computational concepts:
 
-- **Login Validation → Data Validation Logic**
+- **Login Validation → Input Validation & Access Control Logic**
 - **Pass/Fail Analyzer → Basic Data Aggregation**
-- **Data Cleaner → Data Preprocessing**
-- **Message Length Analyzer → Feature Engineering**
+- **Data Cleaner → Data Preprocessing & Standardization**
+- **Message Length Analyzer → Feature Extraction**
 - **Error Detection → Log Analysis & Monitoring**
 
-These logical building blocks are essential before working with:
+These logical building blocks are critical before working with:
 
-- Pandas dataframes  
-- Machine learning pipelines  
-- Text preprocessing  
-- Model evaluation workflows  
+- Pandas DataFrames  
+- Machine Learning pipelines  
+- Natural Language Processing workflows  
+- Model evaluation systems  
 
 ---
 
 # 🛠 Technical Skills Demonstrated  
 
-- Conditional statements (`if`, `else`)
+- Conditional statements (`if`, `else`)  
 - Iterative processing using `for` loops  
-- List traversal and aggregation  
+- List traversal and aggregation logic  
 - String manipulation (`strip()`, `lower()`)  
 - Built-in functions (`len()`)  
 - Clean variable naming conventions  
 - Structured notebook organization  
-- Version control using GitHub  
+- GitHub-based version control practices  
 
 ---
 
@@ -86,17 +86,17 @@ These logical building blocks are essential before working with:
 ✔ Implemented all problems exactly as per instructions  
 ✔ Used provided datasets and variable names  
 ✔ Ensured correct outputs for every task  
-✔ Maintained clean, beginner-friendly logic  
-✔ Structured repository professionally  
-✔ Documented project with detailed README  
+✔ Maintained beginner-friendly and readable logic  
+✔ Organized repository professionally  
+✔ Documented project with a structured README  
 
 ---
 
 # ▶️ How to Execute  
 
-1. Open `Logic_Building_Task_1.ipynb`
-2. Run all cells sequentially
-3. Observe printed outputs for each task
+1. Open `Logic_Building_Task_1.ipynb`  
+2. Run all cells sequentially  
+3. Review printed outputs for each task  
 
 Compatible with:
 
@@ -109,11 +109,11 @@ Compatible with:
 
 Through this assignment, I strengthened my ability to:
 
-- Translate problem statements into structured logic  
-- Build foundational algorithms using Python  
-- Apply preprocessing techniques to textual data  
+- Convert problem statements into structured algorithms  
+- Implement logical workflows using Python fundamentals  
+- Apply preprocessing techniques to structured and textual data  
 - Perform aggregation and conditional filtering  
-- Maintain readable and modular code structure  
+- Maintain modular and readable code  
 - Present technical work professionally on GitHub  
 
 ---
@@ -124,26 +124,27 @@ Through this assignment, I strengthened my ability to:
 |-------|-------------|
 | **Name** | Sourav Varma Gottumukkala |
 | **Assignment** | Logic Building Task 1 |
-| **Internship** | Data Science Internship |
+| **Internship** | Advanced Generative AI Internship |
 | **Organization** | Innomatics Research Labs |
 
 ---
 
 # 🎯 Project Significance  
 
-Strong fundamentals in logic and structured thinking are critical for advanced domains such as:
+Strong logical foundations are essential for advanced domains such as:
 
 - Machine Learning  
 - Deep Learning  
 - Natural Language Processing  
+- Generative AI  
 - Data Engineering  
 
-This project marks an important step in building those core competencies.
-
----
-**This completes Internship Assignment => Logic Building Task 1 successfully.**
+This project marks an important step toward building those core competencies.
 
 ---
 
+**This completes Internship Assignment – Logic Building Task 1 successfully.**
+
+---
 
 ## ⭐ If you found this repository valuable, feel free to give it a star!
