@@ -1,5 +1,10 @@
 # 🚀 Logic Building Task 1
+
+---
+
 ### Innomatics Research Labs – Data Science Internship  
+
+---
 
 This repository presents structured solutions to **5 foundational Python logic-building problems**, completed as part of my Data Science Internship.
 
@@ -136,8 +141,10 @@ Strong fundamentals in logic and structured thinking are critical for advanced d
 
 This project marks an important step in building those core competencies.
 
+---
 **This completes Internship Assignment => Logic Building Task 1 successfully.**
 
 ---
+
 
 ## ⭐ If you found this repository valuable, feel free to give it a star!
