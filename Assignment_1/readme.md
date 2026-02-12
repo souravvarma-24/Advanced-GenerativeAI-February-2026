@@ -1,8 +1,7 @@
 # 🚀 Logic Building Task 1
 
 ---
-
-### Innomatics Research Labs – Data Science Internship  
+### Innomatics Research Labs – Advanced GenerativeAI internship
 
 ---
 
