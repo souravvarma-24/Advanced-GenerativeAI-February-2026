@@ -5,7 +5,7 @@
 
 ---
 
-This repository presents structured solutions to **5 foundational Python logic-building problems**, completed as part of my Data Science Internship.
+This repository presents structured solutions to **5 foundational Python logic-building problems**, completed as part of my Advanced GenerativeAI internship.
 
 The purpose of this assignment is to strengthen computational thinking, problem decomposition, and clean implementation using core Python constructs — skills that form the backbone of advanced data science and machine learning workflows.
 
