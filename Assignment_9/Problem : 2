@@ -1,0 +1,32 @@
+### Online Food Delivery Time Estimator
+
+def estimate_delivery_time(distance, traffic, weather):
+    """
+    Estimates delivery time using distance and conditions.
+    """
+
+    # Base time (5 minutes per km)
+    base_time = distance * 5
+
+    # Traffic adjustment
+    if traffic == "Low":
+        traffic_delay = 5
+    elif traffic == "Medium":
+        traffic_delay = 10
+    elif traffic == "High":
+        traffic_delay = 10
+    else:
+        traffic_delay = 0
+
+    # Weather adjustment
+    if weather == "Rainy":
+        weather_delay = 5
+    else:
+        weather_delay = 0
+
+    total_time = base_time + traffic_delay + weather_delay
+
+    print(f"Estimated Delivery Time: {total_time} minutes")
+
+
+estimate_delivery_time(8, "High", "Rainy")
