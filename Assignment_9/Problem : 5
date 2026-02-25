@@ -1,0 +1,31 @@
+### Smart Classroom Resource Usage Monitor
+
+
+def monitor_resources(resource_usage):
+    """
+    Identifies overused classroom resources.
+    """
+
+    threshold = 8
+    overused = []
+
+    # Check each resource using loop
+    for resource, hours in resource_usage.items():
+        if hours > threshold:
+            overused.append(resource)
+
+    if overused:
+        print(f"Overused Resources: {', '.join(overused)}")
+        print("Energy Alert: Yes")
+    else:
+        print("Overused Resources: None")
+        print("Energy Alert: No")
+
+
+usage_data = {
+    "Projector": 6,
+    "AC": 9,
+    "Lights": 4
+}
+
+monitor_resources(usage_data)
