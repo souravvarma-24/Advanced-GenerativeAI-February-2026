@@ -13,8 +13,8 @@ Each problem is implemented using clean functions, loops, conditional statements
 ## 📂 Project Structure  
 
 ```
-📁 Sourav_419_Advanced_GenerativeAI_February_2026_Assignment_1
- ├── Logic_Building_Task_1.ipynb
+📁 Sourav_419_Advanced_GenerativeAI_February_2026_Assignment_9
+ ├── Colab File : Feb_Internship_Function_Based_Problem_Solving_– 6.ipynb
  └── README.md
 ```
 
@@ -73,7 +73,7 @@ Each problem is implemented using clean functions, loops, conditional statements
 | Field | Information |
 |-------|-------------|
 | Name | Sourav Varma Gottumukkala |
-| Assignment | Function-Based Problem Solving - Internship Task 6 |
+| Assignment | Feb Internship Function-Based Problem Solving – 6 |
 | Internship | Data Science Internship |
 | Organization | Innomatics Research Labs |
 
@@ -83,4 +83,10 @@ Each problem is implemented using clean functions, loops, conditional statements
 
 This repository demonstrates my ability to translate real-world problems into structured Python solutions using clean coding practices and proper logical implementation.
 
-This completes Internship Assignment – Function-Based Problem Solving (Task 6) successfully.
+---
+
+**This completes Internship Assignment – Feb Internship Function-Based Problem Solving – 6 successfully.**
+
+---
+
+## ⭐ If you found this repository valuable, feel free to give it a star!
