@@ -1,0 +1,27 @@
+### Movie Theatre Seat Occupancy Analyzer
+
+
+def analyze_occupancy(total_seats, booked_seats):
+    """
+    Calculates occupancy and determines show status.
+    """
+
+    booked_count = len(booked_seats)
+
+    occupancy = (booked_count / total_seats) * 100
+
+    if occupancy == 100:
+        status = "Housefull"
+    elif occupancy >= 75:
+        status = "Almost Full"
+    else:
+        status = "Seats Available"
+
+    print(f"Occupancy: {int(occupancy)}%")
+    print(f"Show Status: {status}")
+
+
+total_seats = 200
+booked = [1] * 150
+
+analyze_occupancy(total_seats, booked)
